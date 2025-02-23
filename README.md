@@ -1,4 +1,4 @@
-# StayEase
+# StayEase 
 
 Welcome to StayEase! This project aims to create a user-friendly and engaging platform for travelers to explore and share their adventures. Whether you're planning your next trip or reminiscing about past travels, Wanderlust provides a comprehensive solution to connect and inspire travel enthusiasts around the world.
 
